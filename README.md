@@ -136,6 +136,6 @@ If you encounter any issues or have suggestions, please reach out via:
 ---
 
 <p align="center">
-  <img src="images/icon48.png" alt="QuickText Icon" width="48" height="48"><br>
+  <img src="logo.png" alt="QuickText Icon" width="64"><br>
   Made with ❤️ by <a href="https://hexquant.xyz">TheRealPourya</a>
 </p>
