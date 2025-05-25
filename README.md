@@ -41,10 +41,10 @@ Simply type `++parameter_name` in any text field, and it will instantly be repla
   <img src="interface.jpg" alt="QuickText Interface" width="1400">
 </p>
 
-## 📦 Installation - SOON
+## 📦 Installation 
 
 ### From Chrome Web Store
-1. Visit the [QuickText Chrome Extension](https://chrome.google.com/webstore/detail/quicktext/your-extension-id) page
+1. Visit the [QuickText Chrome Extension](https://chromewebstore.google.com/detail/quicktext/gbnnbciedbdocmiicebmfnpdopcdbign?authuser=0&hl=en) page
 2. Click "Add to Chrome" and confirm the installation
 3. The QuickText icon will appear in your browser toolbar
 
